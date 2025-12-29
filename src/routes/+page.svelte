@@ -154,7 +154,7 @@
   </div>
 </section>
 
-<section id="how-to-use" class="section-block bg-white bg-opacity-5">
+<section id="how-to-use" class="section-block">
   <div class="container">
     <div class="text-center mb-5">
       <h2 class="display-4 fw-800">Maximum Security Protocol</h2>
