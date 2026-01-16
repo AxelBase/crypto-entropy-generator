@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://axelbase.github.io/crypto-entropy-generator/sitemap.xml
+Sitemap: https://crypto-entropy-generator.vercel.app/sitemap.xml
